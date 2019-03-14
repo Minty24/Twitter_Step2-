@@ -26,3 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/fsKSXA8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Note 
+
+- The twitter screen doesn't show, the error message of retreiev tweet kept popoing up when I ran the simulator. 
+- Trying to add in the time indicates the tweets posts.
+- Did not complete the extra credit parts.
